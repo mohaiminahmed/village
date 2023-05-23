@@ -12,7 +12,6 @@ st.set_page_config(
     #layout='wide',
 )
 
-st.write("hello")
 
 hide_streamlit_style = """
             <style>
